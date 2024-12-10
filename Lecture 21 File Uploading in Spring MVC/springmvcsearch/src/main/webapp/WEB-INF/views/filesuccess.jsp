@@ -15,7 +15,7 @@
     <title>Upload Status</title>
   </head>
   <body>
-    <h1>${msg}</h1>
+    <h1>${filename } ${msg}</h1>
    	<img alt="progfile image" src="<c:url value="/resources/image/${filename }"/>"/>
 
     <!-- Optional JavaScript -->
