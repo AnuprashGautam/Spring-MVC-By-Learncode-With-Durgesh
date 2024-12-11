@@ -76,5 +76,5 @@ All code examples align with the [Spring MVC YouTube Playlist](https://youtube.c
 
 Have questions or feedback? Reach out!  
 **Name**: Anuprash Gautam  
-**Email**: [anuprashgautam@hotmail.com]  
+**Email**: [anuprashgautam@hotmail.com](mailto:anuprashgautam@hotmail.com)  
 **GitHub**: [GitHub Profile Link](https://github.com/AnuprashGautam) 
